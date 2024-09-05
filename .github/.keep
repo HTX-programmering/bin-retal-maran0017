@@ -1,0 +1,13 @@
+Det binære system bruger kun 0 og 1, i modsætning til decimale som bruger 0-9.
+Paritets bit,  den mindst vigtige bit. Som er den mest højre. Hvis den er sat er en ulige. Hvis den ikke er sat er den lige.
+The most significant bit, den vigtigste bit. Den er yderest venstre, det er den bit som har den største værdi, og bestemmer om et tal er positivt eller negativt hvor den maksimale er 127 og den laveste er -128.
+Vi får også vidst et Javascript der viser dette, hvor man kan teste et maksimalt og minimalt værdi af et byte. 
+Vi er også givet et eksempel med alle forskellige farver på en regnbue. Hvor der er sammelignet hukommelse, og plads på et papir. F.eks at 1 cifret tal, fylder jo 1 cifre. Og på et tidspunkt vil vi løbe tør for plads på vores A4 papir, ligesom en computer vil løbe tør for hukommelse, hvis 
+et tal er stort nok til det. Det binære system repræsentere hvert cifrer i potens af 2, så f.eks. Tallet 1010 er 10 i decimal værdi.
+
+Opgave 1.5
+Hvis Hyrden skal komme klokken 3, skal hun tænde lys i 1 og 2, fordi det giver 3   
+Hvis hyrden skal komme klokken 5, skal hun tænde lys i 1 og 3, fordi det giver 6
+og kl 10 er vindue 2 og 4. Fordi 4 svarer til 8 i det her tilfælde.
+
+Marcus :)
